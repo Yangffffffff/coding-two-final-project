@@ -16,7 +16,7 @@ The codes are adapted from [DCGAN](https://git.arts.ac.uk/rfiebrink/ExploringMac
 
 The project chains the DCGAN model with the Fast Style Transfer model. The DCGAN model trained on MNIST generates a sequence of images and then feed into the Style Transfer model. The method was inspired by the Helena Sarin's blog post on [GANstruction](https://thegradient.pub/playing-a-game-of-ganstruction/), aims to experiment the model on simple shapes and colours to create interesting effects.  
 
-
+[Colab Notebook](https://github.com/Yangffffffff/coding-two-final-project/blob/main/Fast_Style_Transfer_and_DCGAN.ipynb)  
 
 
 <img src='./docs/grid_2.png'>  
